@@ -11,13 +11,12 @@ struct ContentView: View {
     var body: some View {
       
         VStack{
-            Text ("Here's a cute elephant!")
+            Text ("Here's a cute donkey!")
                 .font(.title)
                 .foregroundColor(Color.green)
-        
+        }
         }
     }
-}
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
